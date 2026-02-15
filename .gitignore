@@ -1,0 +1,6 @@
+# Ignorar variables de entorno reales
+.env
+
+# Ignorar las carpetas pesadas de dependencias (se instalan solas después)
+backend/vendor/
+frontend/node_modules/
